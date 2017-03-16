@@ -17,4 +17,4 @@ const App = () => (
 </View>
 );
 
-AppRegistry.registerComponent('AwesomeProject', () => App);
+AppRegistry.registerComponent('ReactProject', () => App);
